@@ -61,6 +61,8 @@ Once the capture starts, the dashboard displays the following data:
 | **LEN** | Total packet size in bytes. |
 | **INFO** | TCP details: Flags (`[SYN]`, `[ACK]`, `[PSH]`, `[RST]`) and Seq numbers. |
 
+Wirewall Uesr Interface:
+
 ![Wirewall UI](images/WirewallScreenshot.png)
 
 ---
