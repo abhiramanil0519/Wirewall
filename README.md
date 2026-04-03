@@ -104,5 +104,3 @@ This project demonstrates the core pillars of Java Object-Oriented Programming:
 * **Modularization:** The project is split into distinct packages:
     * `com.wirewall.network`: Handles the "Backend" packet processing.
     * `com.wirewall.ui`: Handles the "Frontend" ANSI color schemes.
-
----
