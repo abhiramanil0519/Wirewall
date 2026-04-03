@@ -106,4 +106,3 @@ This project demonstrates the core pillars of Java Object-Oriented Programming:
     * `com.wirewall.ui`: Handles the "Frontend" ANSI color schemes.
 
 ---
-```
