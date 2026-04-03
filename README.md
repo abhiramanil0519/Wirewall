@@ -44,6 +44,8 @@ As soon as the program launches:
 3. **Input:** Type the **ID number** of your active internet adapter and hit `Enter`.
 4. **Active Capture:** The program will automatically detect your local IP and start the live dashboard.
 
+![Wirewall NIC (Network Interface Card) Selection](images/WirewallPromtScreenshot.png)
+
 ---
 
 ## 4. Column Explanations
@@ -58,6 +60,8 @@ Once the capture starts, the dashboard displays the following data:
 | **PROT** | The Protocol being captured (Fixed to **TCP**). |
 | **LEN** | Total packet size in bytes. |
 | **INFO** | TCP details: Flags (`[SYN]`, `[ACK]`, `[PSH]`, `[RST]`) and Seq numbers. |
+
+![Wirewall UI](images/WirewallScreenshot.png)
 
 ---
 
